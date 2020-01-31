@@ -18,7 +18,8 @@
 	{"name":"My Tin"},
 	{"name":"My Other Error"},
 	{"name":"Win"},
-	{"name":"Loss"}
+	{"name":"Loss"},
+	{"name":"Empty"}
 	],
 "links":[
 	{"source":0,"target":16,"value":7},
