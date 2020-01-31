@@ -37,6 +37,5 @@
 {"source":13,"target":16,"value":7},	{"source":13,"target":17,"value":2},	{"source":13,"target":18,"value":2},	{"source":7,"target":20,"value":"Loss"},
 {"source":14,"target":16,"value":8},	{"source":14,"target":17,"value":1},	{"source":14,"target":18,"value":4},	{"source":8,"target":20,"value":"Loss"},
 {"source":15,"target":16,"value":4},	{"source":15,"target":17,"value":6},	{"source":15,"target":18,"value":2},	{"source":4,"target":20,"value":"Loss"},
-{"source":16,"target":16,"value":8},	{"source":16,"target":17,"value":2},	{"source":16,"target":18,"value":3},	{"source":8,"target":20,"value":"Loss"},
-
+{"source":16,"target":16,"value":8},	{"source":16,"target":17,"value":2},	{"source":16,"target":18,"value":3},	{"source":8,"target":20,"value":"Loss"}
 	]}
